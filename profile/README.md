@@ -1,1 +1,1 @@
-Repositories of the Ab Initio Research GrOup (ARGO) at SISSA https://people.sissa.it/~amarrazz/
+Repositories of the [Ab Initio Research GrOup (ARGO)](https://people.sissa.it/~amarrazz/) at SISSA 
